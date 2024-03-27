@@ -1,0 +1,3 @@
+I think it's interesting that, even though the characters in Thomas Was Alone are just squares and rectangles, without any faces, they still feel like characters. I think this is like what I talked about in last week's reflection; they are characters because they are relatable to the human experience. Their thoughts convey emotions very similar to human emotions: distaste of others, worry about purpose, and even ego. If the game was just a bunch of squares jumping around, without any narration, it would feel very different.
+
+In my story I must make sure that the characters are relatable. I plan to do this, not just by having human sprites (if I make a sprite based game), but also through their backstory and thoughts.
